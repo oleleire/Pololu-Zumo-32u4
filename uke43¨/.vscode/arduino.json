@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "output": ".arduino/output",
-    "sketch": "linjefølging/linjefølging.ino"
+    "sketch": "uke43¨/linjefølging/linjefølging.ino"
 }
