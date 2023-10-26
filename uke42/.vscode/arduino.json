@@ -1,0 +1,6 @@
+{
+    "board": "pololu-a-star:avr:a-star32U4",
+    "output": ".arduino/output",
+    "sketch": "Zumo/Zumo.ino",
+    "port": "/dev/tty.usbmodem1101"
+}

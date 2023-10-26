@@ -1,0 +1,36 @@
+[
+ {
+  "directory": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke42",
+  "arguments": [
+   "/Users/oleleire/Library/Arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega32u4",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_A_STAR_32U4",
+   "-DARDUINO_ARCH_AVR",
+   "-DUSB_VID=0x1ffb",
+   "-DUSB_PID=0x2300",
+   "-DUSB_MANUFACTURER=\"Pololu Corporation\"",
+   "-DUSB_PRODUCT=\"Pololu A-Star 32U4\"",
+   "-I/Users/oleleire/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino",
+   "-I/Users/oleleire/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/variants/leonardo",
+   "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke42/.arduino/output/sketch/Zumo.ino.cpp",
+   "-o",
+   "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke42/.arduino/output/sketch/Zumo.ino.cpp.o"
+  ],
+  "file": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke42/.arduino/output/sketch/Zumo.ino.cpp"
+ }
+]

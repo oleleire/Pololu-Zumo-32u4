@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "pololu-a-star:avr:a-star32U4",
+  "hardwareFolders": "/Users/oleleire/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/oleleire/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke42/Zumo"
+}
