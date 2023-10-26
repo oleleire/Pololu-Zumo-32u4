@@ -11,6 +11,116 @@
   },
   {
     "Sourcefile": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke43¨/.arduino/output/sketch/linjefølging.ino.cpp",
+    "Include": "Zumo32U4.h",
+    "Includepath": "/Users/oleleire/Documents/Arduino/libraries/Zumo32U4/src"
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke43¨/.arduino/output/sketch/linjefølging.ino.cpp",
+    "Include": "FastGPIO.h",
+    "Includepath": "/Users/oleleire/Documents/Arduino/libraries/FastGPIO"
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke43¨/.arduino/output/sketch/linjefølging.ino.cpp",
+    "Include": "Pushbutton.h",
+    "Includepath": "/Users/oleleire/Documents/Arduino/libraries/Pushbutton"
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke43¨/.arduino/output/sketch/linjefølging.ino.cpp",
+    "Include": "USBPause.h",
+    "Includepath": "/Users/oleleire/Documents/Arduino/libraries/USBPause"
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke43¨/.arduino/output/sketch/linjefølging.ino.cpp",
+    "Include": "PololuBuzzer.h",
+    "Includepath": "/Users/oleleire/Documents/Arduino/libraries/PololuBuzzer/src"
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke43¨/.arduino/output/sketch/linjefølging.ino.cpp",
+    "Include": "PololuHD44780.h",
+    "Includepath": "/Users/oleleire/Documents/Arduino/libraries/PololuHD44780"
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke43¨/.arduino/output/sketch/linjefølging.ino.cpp",
+    "Include": "PololuSH1106Main.h",
+    "Includepath": "/Users/oleleire/Documents/Arduino/libraries/PololuOLED/src"
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/ESI/Prosjektfag/Pololu Zumo 32u4/uke43¨/.arduino/output/sketch/linjefølging.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/Zumo32U4/src/QTRSensors.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/Zumo32U4/src/Zumo32U4Encoders.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/Zumo32U4/src/Zumo32U4IMU.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/Users/oleleire/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/libraries/Wire/src"
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/Zumo32U4/src/Zumo32U4IMU.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/Zumo32U4/src/Zumo32U4IRPulses.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/Zumo32U4/src/Zumo32U4Motors.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/Zumo32U4/src/Zumo32U4ProximitySensors.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/FastGPIO/FastGPIO.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/Pushbutton/Pushbutton.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/USBPause/USBPause.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/PololuBuzzer/src/PololuBuzzer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/PololuHD44780/PololuHD44780.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Documents/Arduino/libraries/PololuOLED/src/font.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/libraries/Wire/src/Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/oleleire/Library/Arduino15/packages/arduino/hardware/avr/1.8.6/libraries/Wire/src/utility/twi.c",
     "Include": "",
     "Includepath": null
   }
