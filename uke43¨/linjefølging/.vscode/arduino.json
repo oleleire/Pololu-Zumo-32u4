@@ -1,3 +1,5 @@
 {
-    "board": "arduino:avr:uno"
+    "board": "pololu-a-star:avr:a-star32U4",
+    "output": ".arduino/output",
+    "sketch": "linjefølging.ino"
 }
